@@ -22,7 +22,11 @@
 </style>
 
 <script>
+ dev.vk.icon_svg
+  const reload = document.querySelector("#reload");
+
   const reload = document.querySelector("#reload-object");
+ main
 
   function logId() {
     console.log(this.id);

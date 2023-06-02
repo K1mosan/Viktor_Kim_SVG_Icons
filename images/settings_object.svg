@@ -20,7 +20,11 @@
 }
 </style>
 <script>
+ dev.vk.icon_svg
+  const settings = document.querySelector("#settings");
+
   const settings = document.querySelector("#settings-object");
+ main
 
   function logId() {
     console.log(this.id);
