@@ -1,38 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="settings" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
-<defs>
 <style type="text/css">
 	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
-  #settings {
-    transition: all 0.5s ease;
-    transform-origin: center;
-}
-
-  #settings {
-    transition: all 0.5s linear;
-}
-
-  #settings:hover {
-    fill: black;
-    transform: rotate(360deg);
-}
 </style>
-<script>
- dev.vk.icon_svg
-  const settings = document.querySelector("#settings");
-
-  const settings = document.querySelector("#settings-object");
- main
-
-  function logId() {
-    console.log(this.id);
-  }
-
-  settings.addEventListener("click", logId);
-</script>
-</defs>
 <image style="display:none;overflow:visible;" width="950" height="582" xlink:href="../../../../Screenshot 2023-05-23 at 17.11.46.png"  transform="matrix(0.2684 0 0 0.2577 -67.9892 -21.7167)">
 </image>
 <g>

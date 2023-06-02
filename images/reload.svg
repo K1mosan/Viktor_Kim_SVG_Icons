@@ -1,40 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="reload" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
-<defs>
 <style type="text/css">
-.st0{fill:#00AEEF;}
-
-#reload {
-  transition: all 0.5s ease;
-  transform-origin: center;
-}
-
-#reload {
-  transition: all 0.5s linear;
-}
-
-#reload:hover {
-  fill: black;
-  transform: rotate(360deg);
-}
+	.st0{fill:#00AEEF;}
 </style>
-
-<script>
- dev.vk.icon_svg
-  const reload = document.querySelector("#reload");
-
-  const reload = document.querySelector("#reload-object");
- main
-
-  function logId() {
-    console.log(this.id);
-  }
-
-  reload.addEventListener("click", logId);
-</script>
-</defs>
 <circle class="st0" cx="49.3" cy="23.9" r="5.6"/>
 <circle class="st0" cx="67.2" cy="31.7" r="6.2"/>
 <circle class="st0" cx="74.6" cy="51.2" r="7.5"/>

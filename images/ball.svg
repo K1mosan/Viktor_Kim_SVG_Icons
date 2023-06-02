@@ -2,38 +2,12 @@
 <!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="ball" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
-<defs>
 <style type="text/css">
 	.st0{fill:#F15A29;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
 	.st1{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
 	.st2{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
 	.st3{fill:none;stroke:#000000;stroke-width:3.9974;stroke-miterlimit:10;}
-
-#ball {
-  transition: all 0.5s ease;
-  transform-origin: center;
-}
-
-#ball {
-  transition: all 0.5s linear;
-}
-
-#ball:hover {
-  fill: #fff;
-  transform: rotate(360deg);
-}
-
 </style>
-<script>
-  const ball = document.querySelector("#ball-object");
-
-  function logId() {
-    console.log(this.id);
-  }
-
-  ball.addEventListener("click", logId);
-</script>
-</defs>
 <circle class="st0" cx="49.7" cy="50.8" r="40.3"/>
 <path class="st1" d="M43.1,91.1c-0.3-1.9-0.4-3.9-0.4-6c0-22.1,18.2-40.3,40.3-40.3c2.4,0,4.8,0.2,7.1,0.6"/>
 <path class="st1" d="M36.6,11.8c1.3,18.4-10.4,35.7-28,41.2"/>

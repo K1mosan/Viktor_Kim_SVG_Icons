@@ -1,48 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="face" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
- dev.vk.icon_svg
-	viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
-
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
- main
-<defs>
 <style type="text/css">
 	.st0{fill:#FBB040;stroke:#A97C50;stroke-width:3;stroke-miterlimit:10;}
 	.st1{fill:none;stroke:#FBB040;stroke-width:3;stroke-miterlimit:10;}
 	.st2{fill:none;stroke:#A97C50;stroke-width:2.0752;stroke-miterlimit:10;}
 	.st3{fill:none;stroke:#EF4136;stroke-width:3;stroke-miterlimit:10;}
 	.st4{fill:none;stroke:#A97C50;stroke-width:3.1107;stroke-miterlimit:10;}
-
-  #face {
-  transition: all 0.5s ease;
-  transform-origin: center;
-}
-
-  #face {
-  transition: all 0.5s linear;
-}
-
-  #face:hover {
-  fill: black;
-  transform: rotate(360deg);
-}
-
 </style>
-<script>
- dev.vk.icon_svg
-  const face = document.querySelector("#face");
-
-  const face = document.querySelector("#face-object");
- main
-
-  function logId() {
-    console.log(this.id);
-  }
-
-  face.addEventListener("click", logId);
-</script>
-</defs>
 <ellipse class="st0" cx="49.7" cy="56.6" rx="23.6" ry="17.9"/>
 <circle class="st1" cx="73.9" cy="42.9" r="6"/>
 <circle class="st2" cx="70.5" cy="27.5" r="4.1"/>
