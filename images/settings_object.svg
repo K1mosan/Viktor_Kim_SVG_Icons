@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="settings" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<defs>
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+  #settings {
+    transition: all 0.5s ease;
+    transform-origin: center;
+}
+
+  #settings {
+    transition: all 0.5s linear;
+}
+
+  #settings:hover {
+    fill: black;
+    transform: rotate(360deg);
+}
+</style>
+<script>
+  const settings = document.querySelector("#settings-object");
+
+  function logId() {
+    console.log(this.id);
+  }
+
+  settings.addEventListener("click", logId);
+</script>
+</defs>
+<image style="display:none;overflow:visible;" width="950" height="582" xlink:href="../../../../Screenshot 2023-05-23 at 17.11.46.png"  transform="matrix(0.2684 0 0 0.2577 -67.9892 -21.7167)">
+</image>
+<g>
+	<ellipse class="st0" cx="49.9" cy="50.3" rx="13.2" ry="12.5"/>
+	<polygon class="st0" points="69.1,28.3 80.9,24.9 88.3,36.8 78.7,45 78.7,55 88.3,63.8 81,75.5 69.1,72.1 59.1,77.6 57.1,88.7 
+		42.4,88.7 39.6,76.9 29.9,71.7 18.8,75.3 11.3,63.6 20.1,55.5 20.1,44.5 10.9,36.3 18.3,24.9 30.1,28.2 39.6,23.2 42.3,11.7 
+		57.1,11.7 59.5,22.9 	"/>
+</g>
+</svg>
