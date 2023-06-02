@@ -37,9 +37,14 @@
   fill: black;
   transform: rotate(360deg);
 }
+<<<<<<< Updated upstream
 
     </style>
     <script>
+=======
+</style>
+<script>
+>>>>>>> Stashed changes
   const loading = document.querySelector("#loading");
 
 #loading {
