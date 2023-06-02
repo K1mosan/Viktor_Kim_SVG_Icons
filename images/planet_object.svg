@@ -1,97 +1,17 @@
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
- dev.vk.icon_svg
->>>>>>> 8919be3141fceb4c1eaa367aaca6ef54b749a448
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="planet" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 74.24 72.24">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #fbb040;
-        stroke-width: 2px;
-      }
-=======
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="planet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
-<defs>
-<style type="text/css">
-	.st0{fill:#FBB040;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
-	.st1{fill:none;stroke:#000000;stroke-width:2.8973;stroke-miterlimit:10;}
->>>>>>> Stashed changes
-
-      .cls-1, .cls-2 {
-        stroke: #231f20;
-        stroke-miterlimit: 10;
-      }
-
-      .cls-2 {
-        fill: none;
-        stroke-width: 2.9px;
-      }
-
-      #planet {
-
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+	viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
 <defs>
 <style type="text/css">
 	.st0{fill:#FBB040;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
 	.st1{fill:none;stroke:#000000;stroke-width:2.8973;stroke-miterlimit:10;}
 
 #planet {
- main
   transition: all 0.5s ease;
   transform-origin: center;
 }
 
- dev.vk.icon_svg
-  #planet {
-  transition: all 0.5s linear;
-}
-
-  #planet:hover {
-  fill: black;
-  transform: rotate(360deg);
-}
-      
-    </style>
-    <script>
-  const planet = document.querySelector("#planet");
-
-  function logId() {
-    console.log(this.id);
-  }
-
-<<<<<<< Updated upstream
-  planet.addEventListener("click", logId);
-=======
-<script>
-    const planet = document.querySelector("#planet");
-
-    function logId() {
-      console.log(this.id);
-    }
-
-    planet.addEventListener("click", logId);
->>>>>>> Stashed changes
-</script>
-  </defs>
-  <g id="planet-2" data-name="planet">
-    <circle id="circle" class="cls-1" cx="33.2" cy="39.35" r="31"/>
-    <path id="arc" class="cls-2" d="m25.1,9.42C9.09.35,4.07.67,2.35,2.46-2.36,7.35,12.26,30.23,27.05,45.43c11.53,11.85,23.36,19.23,31.81,23.68,5.17,2.35,10.03,2.06,11.9.15,1.57-1.6,1.93-3.48,1.93-3.48.14-.76.1-1.35.06-2-.07-1.03-.3-2.29-1.09-4.24-.84-2.09-1.76-3.58-2.08-4.09-2.14-3.41-4.59-6.44-6.33-8.46"/>
-    <g id="holes">
-      <circle class="cls-1" cx="33.2" cy="24.89" r="4.7"/>
-      <circle class="cls-1" cx="43.28" cy="46.52" r="3.42"/>
-      <circle class="cls-1" cx="11.25" cy="42.2" r="5"/>
-    </g>
-  </g>
-</svg>
-      
 #planet {
   transition: all 0.5s linear;
 }
@@ -102,15 +22,14 @@
 }
 
 </style>
-
 <script>
-    const planet = document.querySelector("#planet-object");
+  const planet = document.querySelector("#planet");
 
-    function logId() {
-      console.log(this.id);
-    }
+  function logId() {
+    console.log(this.id);
+  }
 
-    planet.addEventListener("click", logId);
+  planet.addEventListener("click", logId);
 </script>
 </defs>
 <g id="planet">
@@ -125,4 +44,3 @@
 	</g>
 </g>
 </svg>
- main
