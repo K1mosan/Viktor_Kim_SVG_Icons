@@ -1,0 +1,115 @@
+.hidden {
+  display: none;
+}
+
+body {
+  font-size: 16px;
+  background-color: #fff;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+.icon-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.icon-container div {
+  width: 50%;
+}
+
+/* #ball {
+  transition: all 0.5s ease;
+  transform-origin: center;
+}
+
+#ball {
+  transition: all 0.5s linear;
+}
+
+#ball:hover {
+  fill: #fff;
+  transform: rotate(360deg);
+} */
+
+/* #ball:hover #bgcircle {
+  fill: orange;
+} */
+
+/* #face {
+  transition: all 0.5s ease;
+  transform-origin: center;
+}
+
+#face {
+  transition: all 0.5s linear;
+}
+
+#face:hover {
+  fill: black;
+  transform: rotate(360deg);
+} */
+
+/* #loading {
+  transition: all 0.5s ease;
+  transform-origin: center;
+}
+
+#loading {
+  transition: all 0.5s linear;
+}
+
+#loading:hover {
+  fill: black;
+  transform: rotate(360deg);
+} */
+
+/* #planet {
+  transition: all 0.5s ease;
+  transform-origin: center;
+}
+
+#planet {
+  transition: all 0.5s linear;
+}
+
+#planet:hover {
+  fill: black;
+  transform: rotate(360deg);
+} */
+
+/* #reload {
+  transition: all 0.5s ease;
+  transform-origin: center;
+}
+
+#reload {
+  transition: all 0.5s linear;
+}
+
+#reload:hover {
+  fill: black;
+  transform: rotate(360deg);
+} */
+
+/* #settings {
+  transition: all 0.5s ease;
+  transform-origin: center;
+}
+
+#setings {
+  transition: all 0.5s linear;
+}
+
+#setings:hover {
+  fill: black;
+  transform: rotate(360deg);
+} */
+
+
+
+/* 
+#face:hover #bgcircle {
+  fill: orange;
+} */
